@@ -3,13 +3,11 @@
 A collection of my solutions to various LeetCode challenges, focused on mastering **Data Structure**, **Algorithms**, and **Problem-Solving** patterns.
 
 ## 📂 Repository Structure
-The solutions are organized by difficulty and topic to make navigation easier:
+The solutions are organized by topic to make navigation easier:
 
-| Category | Concepts |
+| Topic | Concepts |
 | :--- | :--- |
-| 🟢 Easy | Fundamental concepts and logic. |
-| 🟡 Medium | Advanced data structures and optimization. |
-| 🔴 Hard | Complex algorithmic patterns and edge cases. |
+| SQL 50 | Fundamental concepts and logic. |
 
 ---
 
